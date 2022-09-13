@@ -68,7 +68,7 @@ public class RegExprTests
         };
         Assert.Equal(tuples, output);
     }
-
+    /*
     [Fact]
     public void InnerText_Given_HTML_a_Tag_Return_List()
     {
@@ -85,7 +85,7 @@ public class RegExprTests
             "strings"
         };
         Assert.Equal(shouldBe, output);
-    }
+    }*/
     /*
     [Fact]
     public void InnerText_Given_HTML_a_Tag_Nested_Return_List()
