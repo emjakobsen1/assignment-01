@@ -86,7 +86,7 @@ public class RegExprTests
         };
         Assert.Equal(shouldBe, output);
     }
-    
+    /*
     [Fact]
     public void InnerText_Given_HTML_a_Tag_Nested_Return_List()
     {
@@ -98,5 +98,5 @@ public class RegExprTests
             "The phrase regular expressions (and consequently, regexes) is often used to mean the specific, standard textual syntax for representing patterns that matching text need to conform to."
         };
         Assert.Equal(shouldBe, output);
-    }
+    }*/
 }
